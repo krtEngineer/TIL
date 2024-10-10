@@ -42,5 +42,3 @@ const jsonString = JSON.stringify(obj, (key, value) =>
 
 console.log(jsonString); // Output: {"a":1,"b":null,"c":3}
 ```
-
-![Nginx](https://github.com/krtEngineer/TIL/blob/main/assets/nginx_log_21.png?raw=true)
