@@ -81,6 +81,24 @@ Also add Netlify function configuration file [netlify.toml
         node_bundler = "esbuild"
 ```
 
+In order to run this project install Netlify CLI.
+
+```
+npm install netlify-cli --global
+```
+
+Add script in your [package.json](https://github.com/krtEngineer/netlify_serverless_functions/blob/development/package.json)
+
+```
+ "dev": "netlify dev"
+```
+
+Run below command to launch project locally.
+
+```
+ npm run dev
+```
+
 [Demo Application](https://krt-weather-api-serverless-fn.netlify.app/)
 
 Result screenshot
