@@ -81,7 +81,7 @@ Also add Netlify function configuration file [netlify.toml
         node_bundler = "esbuild"
 ```
 
-[Demo API](https://krt-weather-api-serverless-fn.netlify.app/)
+[Demo Application](https://krt-weather-api-serverless-fn.netlify.app/)
 
 Result screenshot
 ![result](https://github.com/krtEngineer/TIL/blob/main/assets/02_image_2.png?raw=true)
