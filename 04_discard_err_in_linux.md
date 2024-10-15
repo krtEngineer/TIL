@@ -1,3 +1,5 @@
+Date: 15/10/2024
+
 ### Discard error messages in Linux
 
 In Linux, managing output from commands is a crucial aspect of scripting and system administration. Sometimes, you may want to discard error messages to keep your output clean or to prevent them from interrupting your script's execution.
